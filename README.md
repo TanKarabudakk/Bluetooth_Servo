@@ -1,0 +1,1 @@
+)This project's aim is to develop a servo motor controlled with a bluetooth device. Accomplished with the help of [Embedded Software Development](https://www.udemy.com/course/embedded-software-development-using-cpp/) with C++, in Udemy. Below, you can see the final result.
